@@ -1,0 +1,15 @@
+{
+  "name": "sc-pick",
+  "version": "0.0.0",
+  "description": "A pick specified keys from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "David Tsuji",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "~3.0.1",
+    "mocha": "~1.17.1"
+  }
+}
