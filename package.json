@@ -1,6 +1,6 @@
 {
   "name": "sc-pick",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pick specified keys from an object",
   "main": "index.js",
   "scripts": {
